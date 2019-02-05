@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "angular": "^1.5.8",
-    "pdf.js-viewer": "https://github.com/CDA-Gambit/pdf.js-viewer.git#master"
+    "pdf.js-viewer": "https://github.com/IntactProjects/pdf.js-viewer.git#v2.0"
   },
   "license": "MIT",
   "main": "dist/angular-pdfjs-viewer.js",
